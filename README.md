@@ -26,9 +26,17 @@ We hit 1K+ Downloads on PlayStore :
 <p align="center">
  <a href='https://play.google.com/store/apps/details?id=com.sultan.apps.Vpn.IronMan'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/ width="300px" heigh="100px" ></a>
 
- ### Find this useful? ❤️
+## :heart: Support My Projects 
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
+
+* Starring: You may give a star or share the projects you like.
+
+### Find this useful? ❤️
+
 Support it by joining stargazers to this. ⭐
 
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+
 
 
